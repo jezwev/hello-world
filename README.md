@@ -1,2 +1,2 @@
 # hello-world
-First example
+first use of git-hub, bound to make a few mistakes
